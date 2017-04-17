@@ -1,28 +1,18 @@
-﻿Построение начато 12.04.2017 17:11:03.
-     1>Проект "c:\Users\Tovpinec\documents\visual studio 2012\Projects\Laba8\Laba8\Laba8.vcxproj" в узле 2 (целевые объекты Build).
+﻿Построение начато 17.04.2017 16:45:47.
+     1>Проект "C:\Users\Tovpinec\documents\visual studio 2012\Projects\Laba8\Laba8\Laba8.vcxproj" в узле 2 (целевые объекты Build).
      1>ClCompile:
-         D:\Program files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Ex2.cpp Ex3.cpp
-         Ex3.cpp
-     1>c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "name"
-     1>c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(11): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-     1>c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "artic"
-     1>c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-     1>c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "firmName"
-     1>c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-     1>c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(17): error C2061: синтаксическая ошибка: идентификатор "string"
-     1>c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(18): error C2039: name: не является членом "MyClass"
-                 c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(10): см. объявление "MyClass"
-     1>c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(18): error C2065: name: необъявленный идентификатор
-     1>c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(19): error C2039: artic: не является членом "MyClass"
-                 c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(10): см. объявление "MyClass"
-     1>c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(19): error C2065: artic: необъявленный идентификатор
-     1>c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(20): error C2039: firmName: не является членом "MyClass"
-                 c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(10): см. объявление "MyClass"
-     1>c:\users\tovpinec\documents\visual studio 2012\projects\laba8\laba8\ex3.cpp(20): error C2065: firmName: необъявленный идентификатор
-         Ex2.cpp
-         Создание кода...
-     1>Построение проекта "c:\Users\Tovpinec\documents\visual studio 2012\Projects\Laba8\Laba8\Laba8.vcxproj" завершено (целевые объекты Build) с ошибкой.
+         D:\Program files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Ex6.cpp
+         Ex6.cpp
+       Link:
+         D:\Program files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tovpinec\documents\visual studio 2012\Projects\Laba8\Debug\Laba8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Tovpinec\documents\visual studio 2012\Projects\Laba8\Debug\Laba8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tovpinec\documents\visual studio 2012\Projects\Laba8\Debug\Laba8.lib" /MACHINE:X86 Debug\Ex1.obj
+         Debug\Ex2.obj
+         Debug\Ex3.obj
+         Debug\Ex4.obj
+         Debug\Ex5.obj
+         Debug\Ex6.obj
+         Laba8.vcxproj -> C:\Users\Tovpinec\documents\visual studio 2012\Projects\Laba8\Debug\Laba8.exe
+     1>Построение проекта "C:\Users\Tovpinec\documents\visual studio 2012\Projects\Laba8\Laba8\Laba8.vcxproj" завершено (целевые объекты Build).
 
-Сбой построения.
+Построение успешно завершено.
 
-Затраченное время: 00:00:02.90
+Затраченное время: 00:00:01.48
